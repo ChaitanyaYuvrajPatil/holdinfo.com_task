@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+
+.app {
+  font-family: "Oswald", sans-serif;
+}
+.pt_img {
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.pt_img > img {
+  width: 100%;
+}
+
+.foot {
+  color: #888686;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-top: 2px solid #ddd;
+}
+.foot_sub_1 {
+  display: flex;
+}
+
+.foot_sub_1 > p {
+  margin-left: 15px;
+}

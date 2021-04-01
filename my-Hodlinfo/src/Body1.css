@@ -1,0 +1,32 @@
+.body1 {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.element1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element1 > h2 {
+  font-size: 3rem;
+}
+
+.sub_element {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sub_element_p1 {
+  font-size: 2rem;
+}
+
+.sub_element > h1 {
+  font-size: 4rem;
+}
